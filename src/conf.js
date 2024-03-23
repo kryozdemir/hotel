@@ -8,7 +8,7 @@ mkdirp.sync(hotelDir)
 // Defaults
 const defaults = {
   port: 2010,
-  host: '127.0.0.1',
+  host: '127.0.0.3',
   timeout: 5000,
   tld: 'localhost',
   // Replace with your network proxy IP (1.2.3.4:5000) if any
